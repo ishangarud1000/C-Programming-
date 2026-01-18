@@ -1,8 +1,8 @@
-#C Code Lab: Learning the Basics of C Programming
+# C Code Lab: Learning the Basics of C Programming
 
-##This repository is a collection of programs and practice exercises created while learning C programming as part of the FY BCA syllabus. It focuses on understanding the fundamentals of C through simple, well-structured code and hands-on practice.
+## This repository is a collection of programs and practice exercises created while learning C programming as part of the FY BCA syllabus. It focuses on understanding the fundamentals of C through simple, well-structured code and hands-on practice.
 
-Language Used
+### Language Used
 
 C Programming (ANSI C): Used to learn core programming concepts and logical thinking.
 
@@ -20,7 +20,7 @@ Arrays, strings, and pointers
 
 Simple logic-building and problem-solving programs
 
-##What You’ll Find
+## What You’ll Find
 
 Practice Programs: Small programs written to understand individual concepts
 
